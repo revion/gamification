@@ -1,0 +1,65 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0xfdf)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ryanr\Documents\Unity Projects\gamification\Try Your English_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.734491 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3248 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.071755 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 0.276504 ms (FindLiveObjects: 0.023545 ms CreateObjectMapping: 0.019922 ms MarkObjects: 0.222773 ms  DeleteObjects: 0.009659 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.559046 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.377929 ms (FindLiveObjects: 0.036827 ms CreateObjectMapping: 0.037430 ms MarkObjects: 0.295219 ms  DeleteObjects: 0.006640 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501692 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 0.329631 ms (FindLiveObjects: 0.026563 ms CreateObjectMapping: 0.022941 ms MarkObjects: 0.274089 ms  DeleteObjects: 0.005433 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501088 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.316953 ms (FindLiveObjects: 0.039241 ms CreateObjectMapping: 0.031393 ms MarkObjects: 0.240281 ms  DeleteObjects: 0.005433 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.832294 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 1.226762 ms (FindLiveObjects: 0.078483 ms CreateObjectMapping: 0.085728 ms MarkObjects: 1.042023 ms  DeleteObjects: 0.018111 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652622 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.356799 ms (FindLiveObjects: 0.034412 ms CreateObjectMapping: 0.029582 ms MarkObjects: 0.278315 ms  DeleteObjects: 0.013885 ms)
+
